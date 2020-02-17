@@ -9,6 +9,7 @@ end
 
 def batch_badge_creator(attendees)
   badge_messsages = []
+  attendees.each do |
 end
 
 def assign_rooms(speakers)
