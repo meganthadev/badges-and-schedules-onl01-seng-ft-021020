@@ -8,7 +8,7 @@ return "Hello, my name is #{name}."
 end
 
 def batch_badge_creator(attendees)
-  return badge_messsages
+  return badge_messsages = []
 end
 
 def assign_rooms(speakers)
