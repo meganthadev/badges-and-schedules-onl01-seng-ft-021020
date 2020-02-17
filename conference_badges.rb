@@ -24,4 +24,6 @@ end
   
 def printer(attendees) 
   listOne = batch_badge_creator(attendees) 
-  puts 
+  puts  listOne.each do |x|
+    puts x 
+  end
