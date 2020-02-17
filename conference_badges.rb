@@ -17,6 +17,6 @@ end
 
 def assign_rooms(attendees)
   message = []
-  
+  attendees.each_with_index
 end 
   
